@@ -1,0 +1,24 @@
+{
+  "name": "proyectofinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Badnameless/ProyectoFinalElectiva.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Badnameless/ProyectoFinalElectiva/issues"
+  },
+  "homepage": "https://github.com/Badnameless/ProyectoFinalElectiva#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "puppeteer": "^23.0.1"
+  }
+}
